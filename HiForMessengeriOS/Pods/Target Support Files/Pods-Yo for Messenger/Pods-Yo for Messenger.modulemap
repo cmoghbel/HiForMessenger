@@ -1,0 +1,6 @@
+framework module Pods_Yo_for_Messenger {
+  umbrella header "Pods-Yo for Messenger-umbrella.h"
+
+  export *
+  module * { export * }
+}

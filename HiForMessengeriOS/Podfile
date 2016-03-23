@@ -1,0 +1,17 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+use_frameworks!
+
+target 'Yo for Messenger' do
+pod 'Parse'
+pod 'ParseFacebookUtilsV4'
+pod 'ParseTwitterUtils'
+pod 'RestEssentials'
+pod 'PermissionScope'
+end
+
+target 'Yo for MessengerTests' do
+
+end
+

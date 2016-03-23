@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Yo for Messenger": {
+            "applicationId": "9fkaq9d9twRyTtZzrozQ9Qq4MpBFfXxkOI8m6Fc1", 
+            "masterKey": "Oksi9TkpwXYqqf2SBC9J1tlerbBVD1K9ejjFGE6m"
+        }, 
+        "_default": {
+            "link": "Yo for Messenger"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.4.2"
+    }
+}
